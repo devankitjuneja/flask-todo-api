@@ -1,6 +1,9 @@
-1. Install the necessary requirements
+## Follow the steps to install the pre-requisites
+
+1. Setup a python virtual environment and install dependencies.
 ```bash
 $ python3 -m venv .venv
+$ source .venv/bin/activate
 $ pip install -r requirements.txt
 ```
 
